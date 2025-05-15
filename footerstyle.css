@@ -1,0 +1,7 @@
+.footer_bottom {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    justify-content: space-between;
+    align-items: stretch;
+    display: flex
+}
