@@ -1,8 +1,12 @@
 .footer_bottom {
-    height: 40vh;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    height: 10vh;
+    padding-left: 6rem;
+    padding-right: 6rem;
     justify-content: space-between;
     align-items: stretch;
     display: flex
+}
+
+.text-weight-bold {
+    color: rgb(30, 29, 29);
 }
