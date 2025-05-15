@@ -1,0 +1,40 @@
+.main__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 90vh;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+}
+
+.main__content h1 {
+    font-family: 'NeueHaasB';
+    font-weight: lighter;
+    font-size: 8rem;
+    line-height: 6.5rem;
+    letter-spacing: .5px;
+    color: rgba(60,60,61,255);
+}
+
+.catalogue_main__content h1 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 50px;
+    font-family: 'NeueHaasB';
+    font-size: 7rem;
+    line-height: 6rem;
+    letter-spacing: .5px;
+}
+
+.main__content p {
+    font-family: 'NeueHaas';
+    font-size: 1rem;
+    font-style: italic;
+}
